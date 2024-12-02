@@ -1,5 +1,5 @@
 
-# 📦 **color_merge**
+# <img src="https://raw.githubusercontent.com/hesham04Dev/color_merge/refs/heads/main/screenshots/logo.png" width="30px"/>  **color_merge**
 
 A lightweight Flutter package that provides **color merging utilities** for blending colors seamlessly. It allows developers to simulate the effect of stacking colors on top of one another, ignoring opacity, and adapt colors dynamically based on the app's theme.
 
@@ -118,5 +118,5 @@ Feel free to reach out for support, feedback, or collaboration!
 
 ## 🔗 Links
 
-- [GitHub Repository](#)  
+- [GitHub Repository](#https://github.com/hesham04Dev/color_merge)  
 - [Pub.dev Package](#)
